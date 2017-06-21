@@ -8998,7 +8998,7 @@ button.close {
     display: none;
     max-width: 276px;
     padding: 1px;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family:'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif ;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -9896,7 +9896,7 @@ button.close {
 }
 .fancybox-error {
     color: #444;
-    font: 14px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 14px/20px font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     margin: 0;
     padding: 15px;
     white-space: nowrap
@@ -10019,7 +10019,7 @@ button.close {
 }
 .fancybox-title {
     visibility: hidden;
-    font: normal 13px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: normal 13px/20px font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     position: relative;
     text-shadow: none;
     z-index: 8050
@@ -18098,7 +18098,7 @@ html {
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0)
 }
 body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 14px;
     line-height: 1.42857143;
     color: #333;
